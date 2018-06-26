@@ -1,0 +1,119 @@
+.conteiner{
+  width: 100%;
+}
+
+.row{
+  background-color: rgb(212, 78, 123);
+  width: 100%;
+  height: 200px;
+}
+
+#letras{
+  color: white;
+  text-align: right;
+  padding-top: 5%;
+}
+
+#letras1{
+  color: white;
+  text-align: right;
+  font-size: 80%;
+}
+.imagen1{
+  background-image: url(../img/uno.jpg);
+  height: 25em;
+  width: 100%;
+  background-position: 10%;  
+}
+
+.barra{
+  background-color: rgb(212, 78, 123);
+  width: 100%;
+  height: 20px;
+}
+
+.content{
+  background-color: green;
+  width: 100%;
+  height: 400px;
+}
+
+.cajaTexto{
+  background-color: rgb(212, 78, 123);
+  width: 60%;
+  margin-top: 3%;
+  margin-left: 20%;
+  padding-top: 20px;
+}
+
+.texto{
+  background-color: rgb(212, 78, 123);
+  width: 100%;
+  height: 250px; 
+  padding-top: 10px;
+  color: white;
+  text-align: center;
+  font-size: 15px;  
+}
+
+.Titulo{
+  color: white;
+  text-align: center;
+  font-size: 30px;  
+}
+
+.imagen2{
+  background-image: url(../img/dos.jpg);
+  height: 25em;
+  width: 100%;
+  background-size: 100%;
+  background-position: 100%; 
+}
+
+.titulo2{
+  color: white;
+  text-align: center;
+  padding-top: 40px;
+}
+
+#img1{
+  left: 150px;
+  top: 50px;  
+}
+
+#img2{
+  left: 360px;
+  bottom: 100px;
+}
+
+#img3{
+  left: 580px;
+  bottom: 250px;
+}
+
+#img4{
+  left: 800px;
+  bottom: 400px;
+}
+
+.imagen3{
+  background-image: url(../img/tres.jpg);
+  height: 25em;
+  width: 100%;
+  background-position: 10%; 
+  background-size: 100%; 
+}
+
+.barra1{
+  background-color: rgb(212, 78, 123);
+  width: 100%;
+  height: 30px;
+}
+
+#letras3{
+  color: white;
+  text-align: right;
+  font-size: 80%;
+  padding-top: 10px;
+  padding-right: 10px;
+}
